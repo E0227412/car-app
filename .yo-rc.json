@@ -8,7 +8,7 @@
     "baseName": "carsapp",
     "packageName": "com.cars.app",
     "packageFolder": "com/cars/app",
-    "serverPort": "8081",
+    "serverPort": "8082",
     "authenticationType": "jwt",
     "cacheProvider": "hazelcast",
     "enableHibernateCache": true,
@@ -33,6 +33,7 @@
     "clientPackageManager": "npm",
     "blueprints": [],
     "skipClient": true,
-    "skipUserManagement": true
+    "skipUserManagement": true,
+    "lastLiquibaseTimestamp": 1616145336000
   }
 }
